@@ -1,0 +1,53 @@
+
+#SpaceX{
+	width: 150px;
+	margin-top: 50px;
+
+}
+
+.Head{
+
+	color:deepskyblue;
+	font-family: fantasy;
+	font-weight: bold;
+	font-size: 70px;
+	font-weight: bold;
+	text-shadow: 5px 5px 1px gray;
+}
+.underline{
+	border-bottom: 10px solid black;
+}
+#Terms{
+	margin: 70px;
+	padding-top: 10px;
+
+}
+.Terms:hover{
+	background-color: white;
+}
+
+
+button{
+	padding: 10px;
+	width: 100px;
+	background-color: deepskyblue;
+	font-weight: bold;
+	color: black;
+	font-style: italic;
+
+}
+button:hover{
+	background-color: white;
+}
+
+#body{
+	background-image:url("Gif_1676273982322.GIF");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+}
+.p{
+	color: black;
+
+
+}	  
